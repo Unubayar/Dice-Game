@@ -103,7 +103,7 @@ document.querySelector(".btn-hold").addEventListener("click", function (){
     switchToNextPlayer();
      }  
   }else{
-    alert("Тоглоом дууссан NEW GAME товчийг дарж шинээр эхэлнэ үү!!!")
+    alert("Тоглоом дууссан Шинэ тоглоом товчийг дарж шинээр эхэлнэ үү!!!")
   }
 });
 
